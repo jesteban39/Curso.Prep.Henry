@@ -138,7 +138,7 @@ Ahora que nuestro contenedor (elemento) es "flex", podemos imaginarlo como una g
 
 * `center`: centrará el elemento (o grupo de elementos) a lo largo de un eje en el que aplica esta regla.
 * `flex-start`: Este es el valor por defecto de cada "flex box", mostrará todos los elementos en un grupo al comienzo de una fila o columna.
-* `flex-end`: es lo opuesto a `flex-start`, mostrará los elementos al final de un grupo al comienzo de una fila o columna.
+* `flex-end`: es lo opuesto a `flex-start`, mostrará todos los elementos en un grupo al final de una fila o columna.
 * `space-between`: Esta regla espaciará uniformemente el elemento o los elementos a lo largo de la fila o columna. El primer elemento estará como `flex-start` y el último como `flex-end`.
 * `space-around`: Similar a `space-between`, pero  aplicará márgenes igualitarios entre cada elemento, por lo que ningún elemento estara directamente sobre el borde del contenedor.
 
